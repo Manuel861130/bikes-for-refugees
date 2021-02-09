@@ -36,7 +36,19 @@ button {
 
 /* Buttons */
 /* INSERT BUTTON STYLES HERE */
-
+.orange-btn{
+	background-color: #ce5f31;
+	color: white;
+	
+}
+button{
+	border: none;
+	border-radius: 5px;
+	
+}
+.jumbotron button{
+padding: 5px ;
+}
 
 /* Alert */
 .alert {
@@ -138,4 +150,7 @@ button {
 	.navbar-brand > img {
 	   max-height: 80px;
 	}
+}
+section{
+	display: flex;
 }
